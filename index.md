@@ -9,4 +9,7 @@
 # Add a Image
 ![stock-vector-white-lily-flowers-in-different-stages-isolated-on-white-background-delicate-flower-vector-1066502936](https://user-images.githubusercontent.com/113460907/193270741-37bd0762-648f-4a2c-8e0f-bf1b6854dbad.jpg)
 
-  
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
